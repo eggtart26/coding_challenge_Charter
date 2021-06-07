@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/eggtart26/coding_challenge_Charter#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
   }
 }
