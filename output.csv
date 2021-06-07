@@ -61,3 +61,66 @@ Fermi National Accelerator Laboratory (FNAL),20,35203.200000000004,false,MIT GPL
 Princeton Plasma Physics Laboratory (PPPL),15,1936723.2,false,GPL-3.0 Other MIT BSD-3-Clause AGPL-3.0,06 07 08 02 05 01
 Nevada National Security Site/Mission Support and Test Services LLC (MSTS),1,881.6,true,Unlicense,10
 USDOE Advanced Research Projects Agency – Energy (ARPA-E) (United States) (ARPA-E),1,0,true,Other,10
+orgnization,release_count,total_labor_hours,all_in_production,licenses,most_active_months
+Sandia National Laboratories (SNL),413,428436578.39999986,false,BSD-3-Clause LGPL-2.1 GPL-3.0 Other MIT LGPL-3.0 GPL-2.0 Apache-2.0 BSD-2-Clause MPL-2.0 Unlicense EPL-1.0 GPL-2.1,10 02 03 04 05 06 08 09 11 12 01 07
+Lawrence Livermore National Laboratory (LLNL),533,48608140.79999998,false,GPL-2.0 LGPL-2.1 LGPL-3.0 Other GPL-3.0 GPL-2.1 BSD-3-Clause BSD-2-Clause MIT Apache-2.0 AGPL-3.0,10 02 03 04 05 06 07 09 12 01 08 11
+Lawrence Berkeley National Laboratory (LBNL),234,32509775.200000007,false,Other BSD-3-Clause GPL-2.0 Apache-2.0 MIT BSD-2-Clause GPL-3.0,10 01 03 05 06 07 08 09 11 12 02 04
+Argonne National Laboratory (ANL),75,2233472.8,false,Other BSD-2-Clause LGPL-3.0 BSD-3-Clause GPL-2.0 GPL-3.0 MIT,10 01 04 08 09 06 07 02 05
+Pacific Northwest National Laboratory (PNNL),322,11452728.799999991,false,Other Apache-2.0 LGPL-2.1 MIT BSD-2-Clause BSD-3-Clause GPL-2.0 GPL-3.0,10 11 12 01 02 03 04 05 06 07 08 09
+National Renewable Energy Laboratory (NREL),197,44360287.999999985,false,Other LGPL-3.0 Apache-2.0 BSD-2-Clause GPL-3.0 BSD-3-Clause MIT AGPL-3.0 LGPL-2.1 GPL-2.0,10 11 01 04 05 06 09 12 02 03 07 08
+Oak Ridge National Laboratory (ORNL),174,23599580.800000012,false,BSD-3-Clause MIT GPL-2.0 GPL-3.0 Other Apache-2.0 LGPL-3.0 LGPL-2.1 EPL-1.0 MPL-2.0 BSD-2-Clause GPL-2.1,10 11 02 04 07 05 06 09 08
+Brookhaven National Laboratory (BNL),77,335266.39999999985,false,Other BSD-3-Clause MIT GPL-3.0 BSD-2-Clause LGPL-3.0 Apache-2.0,10 03 05 07 09
+Contractor (CONTR),38,2616786.4000000004,false,BSD-3-Clause Other GPL-2.0 MIT BSD-2-Clause Apache-2.0 GPL-3.0,10 01 03 06 11 12 02 05 09
+Los Alamos National Laboratory (LANL),131,21414383.200000003,false,BSD-3-Clause GPL-2.0 Other Apache-2.0 GPL-3.0 MIT BSD-2-Clause EPL-1.0 LGPL-2.1,10 12 01 02 03 04 05 06 07 08 09 11
+Idaho National Laboratory (INL),47,3456844.8000000003,false,LGPL-2.1 Apache-2.0 MPL-2.0 GPL-2.0 MIT LGPL-3.0 BSD-3-Clause,10 04 05 07 08 09 01 02 06
+Thomas Jefferson National Accelerator Facility (TJNAF),5,758404,false,Other BSD-3-Clause,10 02 05
+Ames Laboratory (AMES),5,215049.59999999998,true,BSD-3-Clause,10
+National Energy Technology Laboratory (NETL),1,7220,true,Other,10
+Office of Scientific and Technical Information (OSTI),616,95298680.00000001,false,Other BSD-3-Clause LGPL-3.0 MIT LGPL-2.1 Apache-2.0 BSD-2-Clause,10 12 06 07 05 08 09
+SLAC National Accelerator Laboratory (SLAC),61,1406532.0000000002,false,Other MIT Apache-2.0 LGPL-3.0,02 05 06 09 08
+Fermi National Accelerator Laboratory (FNAL),20,35203.200000000004,false,MIT GPL-3.0 Apache-2.0 BSD-3-Clause Other GPL-2.0,03 07 09 10 12 02 11 01
+Princeton Plasma Physics Laboratory (PPPL),15,1936723.2,false,GPL-3.0 Other MIT BSD-3-Clause AGPL-3.0,06 07 08 02 05 01
+Nevada National Security Site/Mission Support and Test Services LLC (MSTS),1,881.6,true,Unlicense,10
+USDOE Advanced Research Projects Agency – Energy (ARPA-E) (United States) (ARPA-E),1,0,true,Other,10
+orgnization,release_count,total_labor_hours,all_in_production,licenses,most_active_months
+Sandia National Laboratories (SNL),413,428436578.39999986,false,BSD-3-Clause LGPL-2.1 GPL-3.0 Other MIT LGPL-3.0 GPL-2.0 Apache-2.0 BSD-2-Clause MPL-2.0 Unlicense EPL-1.0 GPL-2.1,10 02 03 04 05 06 08 09 11 12 01 07
+Lawrence Livermore National Laboratory (LLNL),533,48608140.79999998,false,GPL-2.0 LGPL-2.1 LGPL-3.0 Other GPL-3.0 GPL-2.1 BSD-3-Clause BSD-2-Clause MIT Apache-2.0 AGPL-3.0,10 02 03 04 05 06 07 09 12 01 08 11
+Lawrence Berkeley National Laboratory (LBNL),234,32509775.200000007,false,Other BSD-3-Clause GPL-2.0 Apache-2.0 MIT BSD-2-Clause GPL-3.0,10 01 03 05 06 07 08 09 11 12 02 04
+Argonne National Laboratory (ANL),75,2233472.8,false,Other BSD-2-Clause LGPL-3.0 BSD-3-Clause GPL-2.0 GPL-3.0 MIT,10 01 04 08 09 06 07 02 05
+Pacific Northwest National Laboratory (PNNL),322,11452728.799999991,false,Other Apache-2.0 LGPL-2.1 MIT BSD-2-Clause BSD-3-Clause GPL-2.0 GPL-3.0,10 11 12 01 02 03 04 05 06 07 08 09
+National Renewable Energy Laboratory (NREL),197,44360287.999999985,false,Other LGPL-3.0 Apache-2.0 BSD-2-Clause GPL-3.0 BSD-3-Clause MIT AGPL-3.0 LGPL-2.1 GPL-2.0,10 11 01 04 05 06 09 12 02 03 07 08
+Oak Ridge National Laboratory (ORNL),174,23599580.800000012,false,BSD-3-Clause MIT GPL-2.0 GPL-3.0 Other Apache-2.0 LGPL-3.0 LGPL-2.1 EPL-1.0 MPL-2.0 BSD-2-Clause GPL-2.1,10 11 02 04 07 05 06 09 08
+Brookhaven National Laboratory (BNL),77,335266.39999999985,false,Other BSD-3-Clause MIT GPL-3.0 BSD-2-Clause LGPL-3.0 Apache-2.0,10 03 05 07 09
+Contractor (CONTR),38,2616786.4000000004,false,BSD-3-Clause Other GPL-2.0 MIT BSD-2-Clause Apache-2.0 GPL-3.0,10 01 03 06 11 12 02 05 09
+Los Alamos National Laboratory (LANL),131,21414383.200000003,false,BSD-3-Clause GPL-2.0 Other Apache-2.0 GPL-3.0 MIT BSD-2-Clause EPL-1.0 LGPL-2.1,10 12 01 02 03 04 05 06 07 08 09 11
+Idaho National Laboratory (INL),47,3456844.8000000003,false,LGPL-2.1 Apache-2.0 MPL-2.0 GPL-2.0 MIT LGPL-3.0 BSD-3-Clause,10 04 05 07 08 09 01 02 06
+Thomas Jefferson National Accelerator Facility (TJNAF),5,758404,false,Other BSD-3-Clause,10 02 05
+Ames Laboratory (AMES),5,215049.59999999998,true,BSD-3-Clause,10
+National Energy Technology Laboratory (NETL),1,7220,true,Other,10
+Office of Scientific and Technical Information (OSTI),616,95298680.00000001,false,Other BSD-3-Clause LGPL-3.0 MIT LGPL-2.1 Apache-2.0 BSD-2-Clause,10 12 06 07 05 08 09
+SLAC National Accelerator Laboratory (SLAC),61,1406532.0000000002,false,Other MIT Apache-2.0 LGPL-3.0,02 05 06 09 08
+Fermi National Accelerator Laboratory (FNAL),20,35203.200000000004,false,MIT GPL-3.0 Apache-2.0 BSD-3-Clause Other GPL-2.0,03 07 09 10 12 02 11 01
+Princeton Plasma Physics Laboratory (PPPL),15,1936723.2,false,GPL-3.0 Other MIT BSD-3-Clause AGPL-3.0,06 07 08 02 05 01
+Nevada National Security Site/Mission Support and Test Services LLC (MSTS),1,881.6,true,Unlicense,10
+USDOE Advanced Research Projects Agency – Energy (ARPA-E) (United States) (ARPA-E),1,0,true,Other,10
+orgnization,release_count,total_labor_hours,all_in_production,licenses,most_active_months
+Sandia National Laboratories (SNL),413,428436578.39999986,false,BSD-3-Clause LGPL-2.1 GPL-3.0 Other MIT LGPL-3.0 GPL-2.0 Apache-2.0 BSD-2-Clause MPL-2.0 Unlicense EPL-1.0 GPL-2.1,10 02 03 04 05 06 08 09 11 12 01 07
+Lawrence Livermore National Laboratory (LLNL),533,48608140.79999998,false,GPL-2.0 LGPL-2.1 LGPL-3.0 Other GPL-3.0 GPL-2.1 BSD-3-Clause BSD-2-Clause MIT Apache-2.0 AGPL-3.0,10 02 03 04 05 06 07 09 12 01 08 11
+Lawrence Berkeley National Laboratory (LBNL),234,32509775.200000007,false,Other BSD-3-Clause GPL-2.0 Apache-2.0 MIT BSD-2-Clause GPL-3.0,10 01 03 05 06 07 08 09 11 12 02 04
+Argonne National Laboratory (ANL),75,2233472.8,false,Other BSD-2-Clause LGPL-3.0 BSD-3-Clause GPL-2.0 GPL-3.0 MIT,10 01 04 08 09 06 07 02 05
+Pacific Northwest National Laboratory (PNNL),322,11452728.799999991,false,Other Apache-2.0 LGPL-2.1 MIT BSD-2-Clause BSD-3-Clause GPL-2.0 GPL-3.0,10 11 12 01 02 03 04 05 06 07 08 09
+National Renewable Energy Laboratory (NREL),197,44360287.999999985,false,Other LGPL-3.0 Apache-2.0 BSD-2-Clause GPL-3.0 BSD-3-Clause MIT AGPL-3.0 LGPL-2.1 GPL-2.0,10 11 01 04 05 06 09 12 02 03 07 08
+Oak Ridge National Laboratory (ORNL),174,23599580.800000012,false,BSD-3-Clause MIT GPL-2.0 GPL-3.0 Other Apache-2.0 LGPL-3.0 LGPL-2.1 EPL-1.0 MPL-2.0 BSD-2-Clause GPL-2.1,10 11 02 04 07 05 06 09 08
+Brookhaven National Laboratory (BNL),77,335266.39999999985,false,Other BSD-3-Clause MIT GPL-3.0 BSD-2-Clause LGPL-3.0 Apache-2.0,10 03 05 07 09
+Contractor (CONTR),38,2616786.4000000004,false,BSD-3-Clause Other GPL-2.0 MIT BSD-2-Clause Apache-2.0 GPL-3.0,10 01 03 06 11 12 02 05 09
+Los Alamos National Laboratory (LANL),131,21414383.200000003,false,BSD-3-Clause GPL-2.0 Other Apache-2.0 GPL-3.0 MIT BSD-2-Clause EPL-1.0 LGPL-2.1,10 12 01 02 03 04 05 06 07 08 09 11
+Idaho National Laboratory (INL),47,3456844.8000000003,false,LGPL-2.1 Apache-2.0 MPL-2.0 GPL-2.0 MIT LGPL-3.0 BSD-3-Clause,10 04 05 07 08 09 01 02 06
+Thomas Jefferson National Accelerator Facility (TJNAF),5,758404,false,Other BSD-3-Clause,10 02 05
+Ames Laboratory (AMES),5,215049.59999999998,true,BSD-3-Clause,10
+National Energy Technology Laboratory (NETL),1,7220,true,Other,10
+Office of Scientific and Technical Information (OSTI),616,95298680.00000001,false,Other BSD-3-Clause LGPL-3.0 MIT LGPL-2.1 Apache-2.0 BSD-2-Clause,10 12 06 07 05 08 09
+SLAC National Accelerator Laboratory (SLAC),61,1406532.0000000002,false,Other MIT Apache-2.0 LGPL-3.0,02 05 06 09 08
+Fermi National Accelerator Laboratory (FNAL),20,35203.200000000004,false,MIT GPL-3.0 Apache-2.0 BSD-3-Clause Other GPL-2.0,03 07 09 10 12 02 11 01
+Princeton Plasma Physics Laboratory (PPPL),15,1936723.2,false,GPL-3.0 Other MIT BSD-3-Clause AGPL-3.0,06 07 08 02 05 01
+Nevada National Security Site/Mission Support and Test Services LLC (MSTS),1,881.6,true,Unlicense,10
+USDOE Advanced Research Projects Agency – Energy (ARPA-E) (United States) (ARPA-E),1,0,true,Other,10
